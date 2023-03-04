@@ -1,0 +1,9 @@
+{
+  "short_name": "Flash Card",
+  "name": "Flash Card CS50",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
